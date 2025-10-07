@@ -1,0 +1,6002 @@
+[
+  {
+    "Name": "Wolverine",
+    "E-mail": "wolverine@animeworld.jp",
+    "Password": "SniktSnikt2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Hulk",
+    "E-mail": "hulk@adventure.org",
+    "Password": "Smash!Strong",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Doctor Strange",
+    "E-mail": "doctor.strange@animeworld.jp",
+    "Password": "SorcererSupreme!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Hulk",
+    "E-mail": "hulk@magicmail.com",
+    "Password": "Smash!Strong",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@adventure.org",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@magicmail.com",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Rocket Raccoon",
+    "E-mail": "rocket.raccoon@hero.net",
+    "Password": "TrashPanda!007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@hero.net",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Spider-Man",
+    "E-mail": "spider-man@adventure.org",
+    "Password": "WithGreatPower!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Ant-Man",
+    "E-mail": "ant-man@magicmail.com",
+    "Password": "TinyButMighty!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Panther",
+    "E-mail": "black.panther@animeworld.jp",
+    "Password": "WakandaForever!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Deadpool",
+    "E-mail": "deadpool@fictional.com",
+    "Password": "Chimichanga$007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Ant-Man",
+    "E-mail": "ant-man@fictional.com",
+    "Password": "TinyButMighty!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@fictional.com",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Deadpool",
+    "E-mail": "deadpool@hero.net",
+    "Password": "Chimichanga$007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@adventure.org",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Ant-Man",
+    "E-mail": "ant-man@animeworld.jp",
+    "Password": "TinyButMighty!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Hulk",
+    "E-mail": "hulk@fictional.com",
+    "Password": "Smash!Strong",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thor",
+    "E-mail": "thor@hero.net",
+    "Password": "Mjolnir!123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Wolverine",
+    "E-mail": "wolverine@adventure.org",
+    "Password": "SniktSnikt2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@adventure.org",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Wolverine",
+    "E-mail": "wolverine@magicmail.com",
+    "Password": "SniktSnikt2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Captain America",
+    "E-mail": "captain.america@adventure.org",
+    "Password": "Shield@1941",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Wolverine",
+    "E-mail": "wolverine@animeworld.jp",
+    "Password": "SniktSnikt2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Captain America",
+    "E-mail": "captain.america@hero.net",
+    "Password": "Shield@1941",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Rocket Raccoon",
+    "E-mail": "rocket.raccoon@animeworld.jp",
+    "Password": "TrashPanda!007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@adventure.org",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Gamora",
+    "E-mail": "gamora@fictional.com",
+    "Password": "GreenAssassin*123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Spider-Man",
+    "E-mail": "spider-man@animeworld.jp",
+    "Password": "WithGreatPower!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Panther",
+    "E-mail": "black.panther@hero.net",
+    "Password": "WakandaForever!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Gamora",
+    "E-mail": "gamora@adventure.org",
+    "Password": "GreenAssassin*123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thor",
+    "E-mail": "thor@hero.net",
+    "Password": "Mjolnir!123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Deadpool",
+    "E-mail": "deadpool@hero.net",
+    "Password": "Chimichanga$007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@hero.net",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@adventure.org",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@animeworld.jp",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@hero.net",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@hero.net",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@animeworld.jp",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Gamora",
+    "E-mail": "gamora@fictional.com",
+    "Password": "GreenAssassin*123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Panther",
+    "E-mail": "black.panther@fictional.com",
+    "Password": "WakandaForever!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thanos",
+    "E-mail": "thanos@animeworld.jp",
+    "Password": "InfinityStones$123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@fictional.com",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Vision",
+    "E-mail": "vision@fictional.com",
+    "Password": "WandaL0ve",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Rocket Raccoon",
+    "E-mail": "rocket.raccoon@hero.net",
+    "Password": "TrashPanda!007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Rocket Raccoon",
+    "E-mail": "rocket.raccoon@animeworld.jp",
+    "Password": "TrashPanda!007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@adventure.org",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@adventure.org",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Panther",
+    "E-mail": "black.panther@magicmail.com",
+    "Password": "WakandaForever!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Gamora",
+    "E-mail": "gamora@fictional.com",
+    "Password": "GreenAssassin*123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@magicmail.com",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Groot",
+    "E-mail": "groot@adventure.org",
+    "Password": "IamGroot!!!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Captain America",
+    "E-mail": "captain.america@adventure.org",
+    "Password": "Shield@1941",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@fictional.com",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Ant-Man",
+    "E-mail": "ant-man@animeworld.jp",
+    "Password": "TinyButMighty!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@adventure.org",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@magicmail.com",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@magicmail.com",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thor",
+    "E-mail": "thor@hero.net",
+    "Password": "Mjolnir!123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@animeworld.jp",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@animeworld.jp",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@hero.net",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@magicmail.com",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thanos",
+    "E-mail": "thanos@fictional.com",
+    "Password": "InfinityStones$123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Loki",
+    "E-mail": "loki@fictional.com",
+    "Password": "GodOfMischief!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Vision",
+    "E-mail": "vision@hero.net",
+    "Password": "WandaL0ve",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Captain America",
+    "E-mail": "captain.america@animeworld.jp",
+    "Password": "Shield@1941",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Gamora",
+    "E-mail": "gamora@magicmail.com",
+    "Password": "GreenAssassin*123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Deadpool",
+    "E-mail": "deadpool@fictional.com",
+    "Password": "Chimichanga$007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@animeworld.jp",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Panther",
+    "E-mail": "black.panther@fictional.com",
+    "Password": "WakandaForever!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@fictional.com",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Groot",
+    "E-mail": "groot@hero.net",
+    "Password": "IamGroot!!!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@magicmail.com",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Hulk",
+    "E-mail": "hulk@fictional.com",
+    "Password": "Smash!Strong",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Gamora",
+    "E-mail": "gamora@hero.net",
+    "Password": "GreenAssassin*123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@animeworld.jp",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Panther",
+    "E-mail": "black.panther@hero.net",
+    "Password": "WakandaForever!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@hero.net",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@hero.net",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Groot",
+    "E-mail": "groot@fictional.com",
+    "Password": "IamGroot!!!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Wolverine",
+    "E-mail": "wolverine@magicmail.com",
+    "Password": "SniktSnikt2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Gamora",
+    "E-mail": "gamora@adventure.org",
+    "Password": "GreenAssassin*123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thanos",
+    "E-mail": "thanos@fictional.com",
+    "Password": "InfinityStones$123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@animeworld.jp",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Panther",
+    "E-mail": "black.panther@fictional.com",
+    "Password": "WakandaForever!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Spider-Man",
+    "E-mail": "spider-man@fictional.com",
+    "Password": "WithGreatPower!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@magicmail.com",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Groot",
+    "E-mail": "groot@animeworld.jp",
+    "Password": "IamGroot!!!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Vision",
+    "E-mail": "vision@magicmail.com",
+    "Password": "WandaL0ve",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@fictional.com",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Doctor Strange",
+    "E-mail": "doctor.strange@hero.net",
+    "Password": "SorcererSupreme!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Groot",
+    "E-mail": "groot@hero.net",
+    "Password": "IamGroot!!!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@animeworld.jp",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Captain America",
+    "E-mail": "captain.america@adventure.org",
+    "Password": "Shield@1941",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Doctor Strange",
+    "E-mail": "doctor.strange@fictional.com",
+    "Password": "SorcererSupreme!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Hulk",
+    "E-mail": "hulk@magicmail.com",
+    "Password": "Smash!Strong",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Ant-Man",
+    "E-mail": "ant-man@animeworld.jp",
+    "Password": "TinyButMighty!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Spider-Man",
+    "E-mail": "spider-man@magicmail.com",
+    "Password": "WithGreatPower!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Hulk",
+    "E-mail": "hulk@adventure.org",
+    "Password": "Smash!Strong",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Deadpool",
+    "E-mail": "deadpool@animeworld.jp",
+    "Password": "Chimichanga$007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Vision",
+    "E-mail": "vision@adventure.org",
+    "Password": "WandaL0ve",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Ant-Man",
+    "E-mail": "ant-man@hero.net",
+    "Password": "TinyButMighty!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thanos",
+    "E-mail": "thanos@fictional.com",
+    "Password": "InfinityStones$123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Rocket Raccoon",
+    "E-mail": "rocket.raccoon@fictional.com",
+    "Password": "TrashPanda!007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@adventure.org",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Groot",
+    "E-mail": "groot@adventure.org",
+    "Password": "IamGroot!!!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Captain America",
+    "E-mail": "captain.america@adventure.org",
+    "Password": "Shield@1941",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thor",
+    "E-mail": "thor@fictional.com",
+    "Password": "Mjolnir!123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Doctor Strange",
+    "E-mail": "doctor.strange@adventure.org",
+    "Password": "SorcererSupreme!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Hulk",
+    "E-mail": "hulk@adventure.org",
+    "Password": "Smash!Strong",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Groot",
+    "E-mail": "groot@fictional.com",
+    "Password": "IamGroot!!!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Ant-Man",
+    "E-mail": "ant-man@adventure.org",
+    "Password": "TinyButMighty!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Wolverine",
+    "E-mail": "wolverine@adventure.org",
+    "Password": "SniktSnikt2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Panther",
+    "E-mail": "black.panther@animeworld.jp",
+    "Password": "WakandaForever!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Doctor Strange",
+    "E-mail": "doctor.strange@fictional.com",
+    "Password": "SorcererSupreme!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Ant-Man",
+    "E-mail": "ant-man@adventure.org",
+    "Password": "TinyButMighty!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@fictional.com",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Loki",
+    "E-mail": "loki@fictional.com",
+    "Password": "GodOfMischief!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Hulk",
+    "E-mail": "hulk@animeworld.jp",
+    "Password": "Smash!Strong",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Vision",
+    "E-mail": "vision@hero.net",
+    "Password": "WandaL0ve",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Ant-Man",
+    "E-mail": "ant-man@hero.net",
+    "Password": "TinyButMighty!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Captain America",
+    "E-mail": "captain.america@animeworld.jp",
+    "Password": "Shield@1941",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Vision",
+    "E-mail": "vision@magicmail.com",
+    "Password": "WandaL0ve",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thanos",
+    "E-mail": "thanos@hero.net",
+    "Password": "InfinityStones$123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Wolverine",
+    "E-mail": "wolverine@animeworld.jp",
+    "Password": "SniktSnikt2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Wolverine",
+    "E-mail": "wolverine@hero.net",
+    "Password": "SniktSnikt2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@hero.net",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@adventure.org",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Groot",
+    "E-mail": "groot@hero.net",
+    "Password": "IamGroot!!!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@adventure.org",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@animeworld.jp",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Captain America",
+    "E-mail": "captain.america@fictional.com",
+    "Password": "Shield@1941",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@fictional.com",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@hero.net",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Groot",
+    "E-mail": "groot@adventure.org",
+    "Password": "IamGroot!!!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Doctor Strange",
+    "E-mail": "doctor.strange@fictional.com",
+    "Password": "SorcererSupreme!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@magicmail.com",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@magicmail.com",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Captain America",
+    "E-mail": "captain.america@animeworld.jp",
+    "Password": "Shield@1941",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thor",
+    "E-mail": "thor@hero.net",
+    "Password": "Mjolnir!123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Hulk",
+    "E-mail": "hulk@magicmail.com",
+    "Password": "Smash!Strong",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Rocket Raccoon",
+    "E-mail": "rocket.raccoon@magicmail.com",
+    "Password": "TrashPanda!007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@adventure.org",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@fictional.com",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Wolverine",
+    "E-mail": "wolverine@animeworld.jp",
+    "Password": "SniktSnikt2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Deadpool",
+    "E-mail": "deadpool@hero.net",
+    "Password": "Chimichanga$007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@hero.net",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Groot",
+    "E-mail": "groot@hero.net",
+    "Password": "IamGroot!!!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Loki",
+    "E-mail": "loki@magicmail.com",
+    "Password": "GodOfMischief!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Deadpool",
+    "E-mail": "deadpool@hero.net",
+    "Password": "Chimichanga$007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Vision",
+    "E-mail": "vision@adventure.org",
+    "Password": "WandaL0ve",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@adventure.org",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Deadpool",
+    "E-mail": "deadpool@hero.net",
+    "Password": "Chimichanga$007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Doctor Strange",
+    "E-mail": "doctor.strange@magicmail.com",
+    "Password": "SorcererSupreme!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Spider-Man",
+    "E-mail": "spider-man@hero.net",
+    "Password": "WithGreatPower!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@adventure.org",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Gamora",
+    "E-mail": "gamora@animeworld.jp",
+    "Password": "GreenAssassin*123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@fictional.com",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@magicmail.com",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@adventure.org",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Vision",
+    "E-mail": "vision@magicmail.com",
+    "Password": "WandaL0ve",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@magicmail.com",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@magicmail.com",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@hero.net",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@animeworld.jp",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@hero.net",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Captain America",
+    "E-mail": "captain.america@animeworld.jp",
+    "Password": "Shield@1941",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Panther",
+    "E-mail": "black.panther@hero.net",
+    "Password": "WakandaForever!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Captain America",
+    "E-mail": "captain.america@animeworld.jp",
+    "Password": "Shield@1941",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Ant-Man",
+    "E-mail": "ant-man@animeworld.jp",
+    "Password": "TinyButMighty!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Rocket Raccoon",
+    "E-mail": "rocket.raccoon@animeworld.jp",
+    "Password": "TrashPanda!007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Hulk",
+    "E-mail": "hulk@animeworld.jp",
+    "Password": "Smash!Strong",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Loki",
+    "E-mail": "loki@animeworld.jp",
+    "Password": "GodOfMischief!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Panther",
+    "E-mail": "black.panther@adventure.org",
+    "Password": "WakandaForever!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Spider-Man",
+    "E-mail": "spider-man@adventure.org",
+    "Password": "WithGreatPower!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@fictional.com",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Spider-Man",
+    "E-mail": "spider-man@hero.net",
+    "Password": "WithGreatPower!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thanos",
+    "E-mail": "thanos@hero.net",
+    "Password": "InfinityStones$123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@fictional.com",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thor",
+    "E-mail": "thor@adventure.org",
+    "Password": "Mjolnir!123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@fictional.com",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@adventure.org",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@adventure.org",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@animeworld.jp",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Loki",
+    "E-mail": "loki@hero.net",
+    "Password": "GodOfMischief!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Widow",
+    "E-mail": "black.widow@animeworld.jp",
+    "Password": "RedRoomSpy!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Ant-Man",
+    "E-mail": "ant-man@animeworld.jp",
+    "Password": "TinyButMighty!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@animeworld.jp",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Rocket Raccoon",
+    "E-mail": "rocket.raccoon@fictional.com",
+    "Password": "TrashPanda!007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Scarlet Witch",
+    "E-mail": "scarlet.witch@hero.net",
+    "Password": "ChaosMagic123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Thanos",
+    "E-mail": "thanos@fictional.com",
+    "Password": "InfinityStones$123",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Black Panther",
+    "E-mail": "black.panther@animeworld.jp",
+    "Password": "WakandaForever!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Ant-Man",
+    "E-mail": "ant-man@adventure.org",
+    "Password": "TinyButMighty!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Star-Lord",
+    "E-mail": "star-lord@animeworld.jp",
+    "Password": "DanceOff2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Rocket Raccoon",
+    "E-mail": "rocket.raccoon@fictional.com",
+    "Password": "TrashPanda!007",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Groot",
+    "E-mail": "groot@adventure.org",
+    "Password": "IamGroot!!!",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Venom",
+    "E-mail": "venom@fictional.com",
+    "Password": "WeAreVenom!@",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Captain America",
+    "E-mail": "captain.america@hero.net",
+    "Password": "Shield@1941",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Iron Man",
+    "E-mail": "iron.man@magicmail.com",
+    "Password": "IamIronMan2024",
+    "Category": "Marvel"
+  },
+  {
+    "Name": "Aquaman",
+    "E-mail": "aquaman@fictional.com",
+    "Password": "KingOfAtlantis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@adventure.org",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Flash",
+    "E-mail": "flash@fictional.com",
+    "Password": "FastestManAlive!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Joker",
+    "E-mail": "joker@magicmail.com",
+    "Password": "WhySoSerious?",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Aquaman",
+    "E-mail": "aquaman@animeworld.jp",
+    "Password": "KingOfAtlantis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@animeworld.jp",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Harley Quinn",
+    "E-mail": "harley.quinn@animeworld.jp",
+    "Password": "PuddinLover!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Flash",
+    "E-mail": "flash@animeworld.jp",
+    "Password": "FastestManAlive!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Riddler",
+    "E-mail": "riddler@adventure.org",
+    "Password": "RiddleMeThis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Nightwing",
+    "E-mail": "nightwing@magicmail.com",
+    "Password": "FlyingGrayson2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@hero.net",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Robin",
+    "E-mail": "robin@fictional.com",
+    "Password": "BoyWonder!007",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@magicmail.com",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Flash",
+    "E-mail": "flash@animeworld.jp",
+    "Password": "FastestManAlive!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Harley Quinn",
+    "E-mail": "harley.quinn@magicmail.com",
+    "Password": "PuddinLover!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Superman",
+    "E-mail": "superman@animeworld.jp",
+    "Password": "Krypt0n1an",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@animeworld.jp",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@hero.net",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Batman",
+    "E-mail": "batman@fictional.com",
+    "Password": "IamTheNight2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@magicmail.com",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Penguin",
+    "E-mail": "penguin@hero.net",
+    "Password": "IcebergLounge2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Bane",
+    "E-mail": "bane@magicmail.com",
+    "Password": "BrokenBat123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Darkseid",
+    "E-mail": "darkseid@adventure.org",
+    "Password": "OmegaBeam$123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@fictional.com",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Batman",
+    "E-mail": "batman@animeworld.jp",
+    "Password": "IamTheNight2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Bane",
+    "E-mail": "bane@adventure.org",
+    "Password": "BrokenBat123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@fictional.com",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@adventure.org",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@adventure.org",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Penguin",
+    "E-mail": "penguin@animeworld.jp",
+    "Password": "IcebergLounge2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Joker",
+    "E-mail": "joker@fictional.com",
+    "Password": "WhySoSerious?",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@fictional.com",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Robin",
+    "E-mail": "robin@animeworld.jp",
+    "Password": "BoyWonder!007",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@adventure.org",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Flash",
+    "E-mail": "flash@magicmail.com",
+    "Password": "FastestManAlive!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@animeworld.jp",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@fictional.com",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@adventure.org",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@magicmail.com",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@animeworld.jp",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@adventure.org",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Darkseid",
+    "E-mail": "darkseid@fictional.com",
+    "Password": "OmegaBeam$123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@animeworld.jp",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@magicmail.com",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@adventure.org",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Robin",
+    "E-mail": "robin@animeworld.jp",
+    "Password": "BoyWonder!007",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@hero.net",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Darkseid",
+    "E-mail": "darkseid@adventure.org",
+    "Password": "OmegaBeam$123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Harley Quinn",
+    "E-mail": "harley.quinn@magicmail.com",
+    "Password": "PuddinLover!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@hero.net",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@adventure.org",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Joker",
+    "E-mail": "joker@magicmail.com",
+    "Password": "WhySoSerious?",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Robin",
+    "E-mail": "robin@fictional.com",
+    "Password": "BoyWonder!007",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Flash",
+    "E-mail": "flash@hero.net",
+    "Password": "FastestManAlive!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Aquaman",
+    "E-mail": "aquaman@magicmail.com",
+    "Password": "KingOfAtlantis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Nightwing",
+    "E-mail": "nightwing@adventure.org",
+    "Password": "FlyingGrayson2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@hero.net",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@adventure.org",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Aquaman",
+    "E-mail": "aquaman@fictional.com",
+    "Password": "KingOfAtlantis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Joker",
+    "E-mail": "joker@hero.net",
+    "Password": "WhySoSerious?",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@adventure.org",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Lex Luthor",
+    "E-mail": "lex.luthor@hero.net",
+    "Password": "GeniusBillionaire2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Bane",
+    "E-mail": "bane@animeworld.jp",
+    "Password": "BrokenBat123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@magicmail.com",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Lex Luthor",
+    "E-mail": "lex.luthor@magicmail.com",
+    "Password": "GeniusBillionaire2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Robin",
+    "E-mail": "robin@hero.net",
+    "Password": "BoyWonder!007",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Lex Luthor",
+    "E-mail": "lex.luthor@magicmail.com",
+    "Password": "GeniusBillionaire2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Batman",
+    "E-mail": "batman@fictional.com",
+    "Password": "IamTheNight2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@animeworld.jp",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Riddler",
+    "E-mail": "riddler@adventure.org",
+    "Password": "RiddleMeThis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@animeworld.jp",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Lex Luthor",
+    "E-mail": "lex.luthor@adventure.org",
+    "Password": "GeniusBillionaire2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@hero.net",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Aquaman",
+    "E-mail": "aquaman@hero.net",
+    "Password": "KingOfAtlantis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@hero.net",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Harley Quinn",
+    "E-mail": "harley.quinn@fictional.com",
+    "Password": "PuddinLover!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@magicmail.com",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Aquaman",
+    "E-mail": "aquaman@hero.net",
+    "Password": "KingOfAtlantis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@hero.net",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Riddler",
+    "E-mail": "riddler@hero.net",
+    "Password": "RiddleMeThis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Bane",
+    "E-mail": "bane@animeworld.jp",
+    "Password": "BrokenBat123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@magicmail.com",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Flash",
+    "E-mail": "flash@hero.net",
+    "Password": "FastestManAlive!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@magicmail.com",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Superman",
+    "E-mail": "superman@magicmail.com",
+    "Password": "Krypt0n1an",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Penguin",
+    "E-mail": "penguin@fictional.com",
+    "Password": "IcebergLounge2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Superman",
+    "E-mail": "superman@adventure.org",
+    "Password": "Krypt0n1an",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@fictional.com",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Joker",
+    "E-mail": "joker@magicmail.com",
+    "Password": "WhySoSerious?",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@fictional.com",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@hero.net",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Superman",
+    "E-mail": "superman@hero.net",
+    "Password": "Krypt0n1an",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Lex Luthor",
+    "E-mail": "lex.luthor@adventure.org",
+    "Password": "GeniusBillionaire2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Riddler",
+    "E-mail": "riddler@fictional.com",
+    "Password": "RiddleMeThis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Aquaman",
+    "E-mail": "aquaman@magicmail.com",
+    "Password": "KingOfAtlantis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Joker",
+    "E-mail": "joker@hero.net",
+    "Password": "WhySoSerious?",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@fictional.com",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@hero.net",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Joker",
+    "E-mail": "joker@fictional.com",
+    "Password": "WhySoSerious?",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@hero.net",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Penguin",
+    "E-mail": "penguin@fictional.com",
+    "Password": "IcebergLounge2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@hero.net",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Darkseid",
+    "E-mail": "darkseid@adventure.org",
+    "Password": "OmegaBeam$123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@fictional.com",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@fictional.com",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Darkseid",
+    "E-mail": "darkseid@magicmail.com",
+    "Password": "OmegaBeam$123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@animeworld.jp",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Riddler",
+    "E-mail": "riddler@magicmail.com",
+    "Password": "RiddleMeThis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Lex Luthor",
+    "E-mail": "lex.luthor@adventure.org",
+    "Password": "GeniusBillionaire2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@magicmail.com",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Penguin",
+    "E-mail": "penguin@animeworld.jp",
+    "Password": "IcebergLounge2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Penguin",
+    "E-mail": "penguin@animeworld.jp",
+    "Password": "IcebergLounge2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Bane",
+    "E-mail": "bane@adventure.org",
+    "Password": "BrokenBat123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@adventure.org",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Aquaman",
+    "E-mail": "aquaman@animeworld.jp",
+    "Password": "KingOfAtlantis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Batman",
+    "E-mail": "batman@adventure.org",
+    "Password": "IamTheNight2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Superman",
+    "E-mail": "superman@adventure.org",
+    "Password": "Krypt0n1an",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Penguin",
+    "E-mail": "penguin@adventure.org",
+    "Password": "IcebergLounge2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Aquaman",
+    "E-mail": "aquaman@adventure.org",
+    "Password": "KingOfAtlantis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@animeworld.jp",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Superman",
+    "E-mail": "superman@animeworld.jp",
+    "Password": "Krypt0n1an",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Robin",
+    "E-mail": "robin@magicmail.com",
+    "Password": "BoyWonder!007",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Robin",
+    "E-mail": "robin@hero.net",
+    "Password": "BoyWonder!007",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@adventure.org",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Superman",
+    "E-mail": "superman@fictional.com",
+    "Password": "Krypt0n1an",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Nightwing",
+    "E-mail": "nightwing@adventure.org",
+    "Password": "FlyingGrayson2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Joker",
+    "E-mail": "joker@fictional.com",
+    "Password": "WhySoSerious?",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@hero.net",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Nightwing",
+    "E-mail": "nightwing@fictional.com",
+    "Password": "FlyingGrayson2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@fictional.com",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Superman",
+    "E-mail": "superman@fictional.com",
+    "Password": "Krypt0n1an",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Deathstroke",
+    "E-mail": "deathstroke@animeworld.jp",
+    "Password": "OneEyeWarrior123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Bane",
+    "E-mail": "bane@magicmail.com",
+    "Password": "BrokenBat123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@fictional.com",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@fictional.com",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Aquaman",
+    "E-mail": "aquaman@fictional.com",
+    "Password": "KingOfAtlantis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Penguin",
+    "E-mail": "penguin@magicmail.com",
+    "Password": "IcebergLounge2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Penguin",
+    "E-mail": "penguin@hero.net",
+    "Password": "IcebergLounge2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Aquaman",
+    "E-mail": "aquaman@magicmail.com",
+    "Password": "KingOfAtlantis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@hero.net",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@hero.net",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@fictional.com",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@animeworld.jp",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Deathstroke",
+    "E-mail": "deathstroke@adventure.org",
+    "Password": "OneEyeWarrior123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Riddler",
+    "E-mail": "riddler@hero.net",
+    "Password": "RiddleMeThis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Superman",
+    "E-mail": "superman@hero.net",
+    "Password": "Krypt0n1an",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@fictional.com",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@hero.net",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Batman",
+    "E-mail": "batman@animeworld.jp",
+    "Password": "IamTheNight2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Batman",
+    "E-mail": "batman@hero.net",
+    "Password": "IamTheNight2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@magicmail.com",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Darkseid",
+    "E-mail": "darkseid@magicmail.com",
+    "Password": "OmegaBeam$123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Deathstroke",
+    "E-mail": "deathstroke@magicmail.com",
+    "Password": "OneEyeWarrior123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@hero.net",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Darkseid",
+    "E-mail": "darkseid@hero.net",
+    "Password": "OmegaBeam$123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@magicmail.com",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Deathstroke",
+    "E-mail": "deathstroke@hero.net",
+    "Password": "OneEyeWarrior123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Riddler",
+    "E-mail": "riddler@animeworld.jp",
+    "Password": "RiddleMeThis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Deathstroke",
+    "E-mail": "deathstroke@fictional.com",
+    "Password": "OneEyeWarrior123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@fictional.com",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@hero.net",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@magicmail.com",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Darkseid",
+    "E-mail": "darkseid@magicmail.com",
+    "Password": "OmegaBeam$123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Harley Quinn",
+    "E-mail": "harley.quinn@hero.net",
+    "Password": "PuddinLover!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@hero.net",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@adventure.org",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Aquaman",
+    "E-mail": "aquaman@magicmail.com",
+    "Password": "KingOfAtlantis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Riddler",
+    "E-mail": "riddler@fictional.com",
+    "Password": "RiddleMeThis123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@fictional.com",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@magicmail.com",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Robin",
+    "E-mail": "robin@animeworld.jp",
+    "Password": "BoyWonder!007",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Nightwing",
+    "E-mail": "nightwing@hero.net",
+    "Password": "FlyingGrayson2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Darkseid",
+    "E-mail": "darkseid@adventure.org",
+    "Password": "OmegaBeam$123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Nightwing",
+    "E-mail": "nightwing@adventure.org",
+    "Password": "FlyingGrayson2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Deathstroke",
+    "E-mail": "deathstroke@fictional.com",
+    "Password": "OneEyeWarrior123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Catwoman",
+    "E-mail": "catwoman@adventure.org",
+    "Password": "Whiskers!@2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Lex Luthor",
+    "E-mail": "lex.luthor@magicmail.com",
+    "Password": "GeniusBillionaire2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Green Lantern",
+    "E-mail": "green.lantern@fictional.com",
+    "Password": "InBrightestDay!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@fictional.com",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Bane",
+    "E-mail": "bane@adventure.org",
+    "Password": "BrokenBat123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Penguin",
+    "E-mail": "penguin@adventure.org",
+    "Password": "IcebergLounge2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@hero.net",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@fictional.com",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@animeworld.jp",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Shazam",
+    "E-mail": "shazam@adventure.org",
+    "Password": "MagicWordSHAZAM",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Bane",
+    "E-mail": "bane@animeworld.jp",
+    "Password": "BrokenBat123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Wonder Woman",
+    "E-mail": "wonder.woman@animeworld.jp",
+    "Password": "AmazonPrincess!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Bane",
+    "E-mail": "bane@adventure.org",
+    "Password": "BrokenBat123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Superman",
+    "E-mail": "superman@magicmail.com",
+    "Password": "Krypt0n1an",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Darkseid",
+    "E-mail": "darkseid@fictional.com",
+    "Password": "OmegaBeam$123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Lex Luthor",
+    "E-mail": "lex.luthor@magicmail.com",
+    "Password": "GeniusBillionaire2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@adventure.org",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Joker",
+    "E-mail": "joker@hero.net",
+    "Password": "WhySoSerious?",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Superman",
+    "E-mail": "superman@magicmail.com",
+    "Password": "Krypt0n1an",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Batman",
+    "E-mail": "batman@adventure.org",
+    "Password": "IamTheNight2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@adventure.org",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Batman",
+    "E-mail": "batman@hero.net",
+    "Password": "IamTheNight2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Cyborg",
+    "E-mail": "cyborg@fictional.com",
+    "Password": "Booyah2024",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Darkseid",
+    "E-mail": "darkseid@fictional.com",
+    "Password": "OmegaBeam$123",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Two-Face",
+    "E-mail": "two-face@magicmail.com",
+    "Password": "FlipACoin@!",
+    "Category": "DC Comics"
+  },
+  {
+    "Name": "Light Yagami",
+    "E-mail": "light.yagami@magicmail.com",
+    "Password": "Justic3!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Natsu Dragneel",
+    "E-mail": "natsu.dragneel@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gaara",
+    "E-mail": "gaara@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@adventure.org",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@adventure.org",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@adventure.org",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@adventure.org",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@adventure.org",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Luffy",
+    "E-mail": "luffy@fictional.com",
+    "Password": "PirateKing2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Rukia Kuchiki",
+    "E-mail": "rukia.kuchiki@adventure.org",
+    "Password": "ChappyL0ve!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Zoro",
+    "E-mail": "zoro@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@hero.net",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Shinji Ikari",
+    "E-mail": "shinji.ikari@animeworld.jp",
+    "Password": "GetInTheEva!@",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Eren Jaeger",
+    "E-mail": "eren.jaeger@hero.net",
+    "Password": "TitanShifter!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@fictional.com",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Levi Ackerman",
+    "E-mail": "levi.ackerman@fictional.com",
+    "Password": "HumanityStrongest!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@animeworld.jp",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@hero.net",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@hero.net",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Luffy",
+    "E-mail": "luffy@animeworld.jp",
+    "Password": "PirateKing2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Erza Scarlet",
+    "E-mail": "erza.scarlet@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Eren Jaeger",
+    "E-mail": "eren.jaeger@fictional.com",
+    "Password": "TitanShifter!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Erza Scarlet",
+    "E-mail": "erza.scarlet@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Levi Ackerman",
+    "E-mail": "levi.ackerman@hero.net",
+    "Password": "HumanityStrongest!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sasuke",
+    "E-mail": "sasuke@fictional.com",
+    "Password": "Sharingan123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Cell",
+    "E-mail": "cell@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Rukia Kuchiki",
+    "E-mail": "rukia.kuchiki@animeworld.jp",
+    "Password": "ChappyL0ve!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@magicmail.com",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Nami",
+    "E-mail": "nami@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@adventure.org",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Frieza",
+    "E-mail": "frieza@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gaara",
+    "E-mail": "gaara@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Edward Elric",
+    "E-mail": "edward.elric@hero.net",
+    "Password": "Fullmetal123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Levi Ackerman",
+    "E-mail": "levi.ackerman@magicmail.com",
+    "Password": "HumanityStrongest!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sakura Haruno",
+    "E-mail": "sakura.haruno@adventure.org",
+    "Password": "MedicalNinja@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Madara Uchiha",
+    "E-mail": "madara.uchiha@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Naruto",
+    "E-mail": "naruto@animeworld.jp",
+    "Password": "BelieveIt!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Vegeta",
+    "E-mail": "vegeta@hero.net",
+    "Password": "PrinceOfSaiyans!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@adventure.org",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Genos",
+    "E-mail": "genos@fictional.com",
+    "Password": "CyborgHero007!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Zoro",
+    "E-mail": "zoro@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Lucy Heartfilia",
+    "E-mail": "lucy.heartfilia@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@hero.net",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gaara",
+    "E-mail": "gaara@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sakura Haruno",
+    "E-mail": "sakura.haruno@magicmail.com",
+    "Password": "MedicalNinja@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Erza Scarlet",
+    "E-mail": "erza.scarlet@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Naruto",
+    "E-mail": "naruto@animeworld.jp",
+    "Password": "BelieveIt!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gaara",
+    "E-mail": "gaara@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sakura Haruno",
+    "E-mail": "sakura.haruno@fictional.com",
+    "Password": "MedicalNinja@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@fictional.com",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Inuyasha",
+    "E-mail": "inuyasha@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@hero.net",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@animeworld.jp",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Eren Jaeger",
+    "E-mail": "eren.jaeger@adventure.org",
+    "Password": "TitanShifter!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Natsu Dragneel",
+    "E-mail": "natsu.dragneel@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@adventure.org",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Eren Jaeger",
+    "E-mail": "eren.jaeger@hero.net",
+    "Password": "TitanShifter!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sasuke",
+    "E-mail": "sasuke@fictional.com",
+    "Password": "Sharingan123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sakura Haruno",
+    "E-mail": "sakura.haruno@magicmail.com",
+    "Password": "MedicalNinja@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gaara",
+    "E-mail": "gaara@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gaara",
+    "E-mail": "gaara@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Madara Uchiha",
+    "E-mail": "madara.uchiha@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Nami",
+    "E-mail": "nami@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@animeworld.jp",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Goku",
+    "E-mail": "goku@magicmail.com",
+    "Password": "Kamehameha!!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@animeworld.jp",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Shinji Ikari",
+    "E-mail": "shinji.ikari@fictional.com",
+    "Password": "GetInTheEva!@",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Rukia Kuchiki",
+    "E-mail": "rukia.kuchiki@animeworld.jp",
+    "Password": "ChappyL0ve!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Goku",
+    "E-mail": "goku@adventure.org",
+    "Password": "Kamehameha!!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@hero.net",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Natsu Dragneel",
+    "E-mail": "natsu.dragneel@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sasuke",
+    "E-mail": "sasuke@magicmail.com",
+    "Password": "Sharingan123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Cell",
+    "E-mail": "cell@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Piccolo",
+    "E-mail": "piccolo@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Levi Ackerman",
+    "E-mail": "levi.ackerman@fictional.com",
+    "Password": "HumanityStrongest!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Nami",
+    "E-mail": "nami@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Genos",
+    "E-mail": "genos@animeworld.jp",
+    "Password": "CyborgHero007!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Rukia Kuchiki",
+    "E-mail": "rukia.kuchiki@magicmail.com",
+    "Password": "ChappyL0ve!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Miroku",
+    "E-mail": "miroku@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kagome",
+    "E-mail": "kagome@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Luffy",
+    "E-mail": "luffy@animeworld.jp",
+    "Password": "PirateKing2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Natsu Dragneel",
+    "E-mail": "natsu.dragneel@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Madara Uchiha",
+    "E-mail": "madara.uchiha@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sakura Haruno",
+    "E-mail": "sakura.haruno@hero.net",
+    "Password": "MedicalNinja@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@adventure.org",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Deku",
+    "E-mail": "deku@adventure.org",
+    "Password": "OneForAll!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@hero.net",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kakashi",
+    "E-mail": "kakashi@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Todoroki",
+    "E-mail": "todoroki@fictional.com",
+    "Password": "HalfColdHalfHot!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@magicmail.com",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Luffy",
+    "E-mail": "luffy@hero.net",
+    "Password": "PirateKing2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@fictional.com",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Lucy Heartfilia",
+    "E-mail": "lucy.heartfilia@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Vegeta",
+    "E-mail": "vegeta@fictional.com",
+    "Password": "PrinceOfSaiyans!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Todoroki",
+    "E-mail": "todoroki@hero.net",
+    "Password": "HalfColdHalfHot!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Lucy Heartfilia",
+    "E-mail": "lucy.heartfilia@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kakashi",
+    "E-mail": "kakashi@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Miroku",
+    "E-mail": "miroku@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Luffy",
+    "E-mail": "luffy@animeworld.jp",
+    "Password": "PirateKing2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sanji",
+    "E-mail": "sanji@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@fictional.com",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Zoro",
+    "E-mail": "zoro@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@fictional.com",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@fictional.com",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@hero.net",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Lucy Heartfilia",
+    "E-mail": "lucy.heartfilia@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Shinji Ikari",
+    "E-mail": "shinji.ikari@animeworld.jp",
+    "Password": "GetInTheEva!@",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Vegeta",
+    "E-mail": "vegeta@animeworld.jp",
+    "Password": "PrinceOfSaiyans!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@magicmail.com",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Vegeta",
+    "E-mail": "vegeta@animeworld.jp",
+    "Password": "PrinceOfSaiyans!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sango",
+    "E-mail": "sango@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Frieza",
+    "E-mail": "frieza@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Shinji Ikari",
+    "E-mail": "shinji.ikari@fictional.com",
+    "Password": "GetInTheEva!@",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kakashi",
+    "E-mail": "kakashi@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@magicmail.com",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sango",
+    "E-mail": "sango@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kagome",
+    "E-mail": "kagome@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Natsu Dragneel",
+    "E-mail": "natsu.dragneel@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Luffy",
+    "E-mail": "luffy@animeworld.jp",
+    "Password": "PirateKing2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sango",
+    "E-mail": "sango@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@fictional.com",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Eren Jaeger",
+    "E-mail": "eren.jaeger@fictional.com",
+    "Password": "TitanShifter!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Cell",
+    "E-mail": "cell@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@magicmail.com",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@fictional.com",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Nami",
+    "E-mail": "nami@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@fictional.com",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Miroku",
+    "E-mail": "miroku@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Miroku",
+    "E-mail": "miroku@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Madara Uchiha",
+    "E-mail": "madara.uchiha@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gaara",
+    "E-mail": "gaara@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sakura Haruno",
+    "E-mail": "sakura.haruno@fictional.com",
+    "Password": "MedicalNinja@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Nami",
+    "E-mail": "nami@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@hero.net",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gaara",
+    "E-mail": "gaara@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@adventure.org",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Deku",
+    "E-mail": "deku@animeworld.jp",
+    "Password": "OneForAll!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Piccolo",
+    "E-mail": "piccolo@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Genos",
+    "E-mail": "genos@fictional.com",
+    "Password": "CyborgHero007!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Genos",
+    "E-mail": "genos@adventure.org",
+    "Password": "CyborgHero007!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Eren Jaeger",
+    "E-mail": "eren.jaeger@fictional.com",
+    "Password": "TitanShifter!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Todoroki",
+    "E-mail": "todoroki@adventure.org",
+    "Password": "HalfColdHalfHot!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@adventure.org",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Natsu Dragneel",
+    "E-mail": "natsu.dragneel@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@hero.net",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@adventure.org",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sanji",
+    "E-mail": "sanji@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Vegeta",
+    "E-mail": "vegeta@fictional.com",
+    "Password": "PrinceOfSaiyans!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Erza Scarlet",
+    "E-mail": "erza.scarlet@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sanji",
+    "E-mail": "sanji@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Miroku",
+    "E-mail": "miroku@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sanji",
+    "E-mail": "sanji@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Inuyasha",
+    "E-mail": "inuyasha@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gaara",
+    "E-mail": "gaara@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gray Fullbuster",
+    "E-mail": "gray.fullbuster@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Zoro",
+    "E-mail": "zoro@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Light Yagami",
+    "E-mail": "light.yagami@magicmail.com",
+    "Password": "Justic3!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sasuke",
+    "E-mail": "sasuke@hero.net",
+    "Password": "Sharingan123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@animeworld.jp",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Miroku",
+    "E-mail": "miroku@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Naruto",
+    "E-mail": "naruto@adventure.org",
+    "Password": "BelieveIt!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kagome",
+    "E-mail": "kagome@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gaara",
+    "E-mail": "gaara@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Frieza",
+    "E-mail": "frieza@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Lucy Heartfilia",
+    "E-mail": "lucy.heartfilia@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Edward Elric",
+    "E-mail": "edward.elric@adventure.org",
+    "Password": "Fullmetal123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Levi Ackerman",
+    "E-mail": "levi.ackerman@adventure.org",
+    "Password": "HumanityStrongest!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@animeworld.jp",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Erza Scarlet",
+    "E-mail": "erza.scarlet@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Todoroki",
+    "E-mail": "todoroki@adventure.org",
+    "Password": "HalfColdHalfHot!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Piccolo",
+    "E-mail": "piccolo@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Luffy",
+    "E-mail": "luffy@magicmail.com",
+    "Password": "PirateKing2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Piccolo",
+    "E-mail": "piccolo@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Madara Uchiha",
+    "E-mail": "madara.uchiha@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Todoroki",
+    "E-mail": "todoroki@magicmail.com",
+    "Password": "HalfColdHalfHot!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gray Fullbuster",
+    "E-mail": "gray.fullbuster@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Miroku",
+    "E-mail": "miroku@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Frieza",
+    "E-mail": "frieza@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gray Fullbuster",
+    "E-mail": "gray.fullbuster@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@fictional.com",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Rukia Kuchiki",
+    "E-mail": "rukia.kuchiki@fictional.com",
+    "Password": "ChappyL0ve!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@adventure.org",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Miroku",
+    "E-mail": "miroku@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Frieza",
+    "E-mail": "frieza@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@hero.net",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@adventure.org",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Vegeta",
+    "E-mail": "vegeta@hero.net",
+    "Password": "PrinceOfSaiyans!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@hero.net",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gaara",
+    "E-mail": "gaara@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@magicmail.com",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Frieza",
+    "E-mail": "frieza@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@fictional.com",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Miroku",
+    "E-mail": "miroku@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Goku",
+    "E-mail": "goku@animeworld.jp",
+    "Password": "Kamehameha!!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sasuke",
+    "E-mail": "sasuke@hero.net",
+    "Password": "Sharingan123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sasuke",
+    "E-mail": "sasuke@animeworld.jp",
+    "Password": "Sharingan123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Cell",
+    "E-mail": "cell@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@magicmail.com",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Rukia Kuchiki",
+    "E-mail": "rukia.kuchiki@fictional.com",
+    "Password": "ChappyL0ve!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Nami",
+    "E-mail": "nami@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Luffy",
+    "E-mail": "luffy@animeworld.jp",
+    "Password": "PirateKing2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kakashi",
+    "E-mail": "kakashi@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Todoroki",
+    "E-mail": "todoroki@hero.net",
+    "Password": "HalfColdHalfHot!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Inuyasha",
+    "E-mail": "inuyasha@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Deku",
+    "E-mail": "deku@magicmail.com",
+    "Password": "OneForAll!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gray Fullbuster",
+    "E-mail": "gray.fullbuster@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Nami",
+    "E-mail": "nami@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@animeworld.jp",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@adventure.org",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Genos",
+    "E-mail": "genos@hero.net",
+    "Password": "CyborgHero007!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@hero.net",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sango",
+    "E-mail": "sango@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@magicmail.com",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sakura Haruno",
+    "E-mail": "sakura.haruno@animeworld.jp",
+    "Password": "MedicalNinja@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Vegeta",
+    "E-mail": "vegeta@animeworld.jp",
+    "Password": "PrinceOfSaiyans!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gray Fullbuster",
+    "E-mail": "gray.fullbuster@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Inuyasha",
+    "E-mail": "inuyasha@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Rukia Kuchiki",
+    "E-mail": "rukia.kuchiki@fictional.com",
+    "Password": "ChappyL0ve!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@magicmail.com",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@magicmail.com",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Miroku",
+    "E-mail": "miroku@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kagome",
+    "E-mail": "kagome@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Luffy",
+    "E-mail": "luffy@adventure.org",
+    "Password": "PirateKing2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Goku",
+    "E-mail": "goku@fictional.com",
+    "Password": "Kamehameha!!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Naruto",
+    "E-mail": "naruto@fictional.com",
+    "Password": "BelieveIt!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Genos",
+    "E-mail": "genos@magicmail.com",
+    "Password": "CyborgHero007!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Zoro",
+    "E-mail": "zoro@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@animeworld.jp",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Inuyasha",
+    "E-mail": "inuyasha@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Naruto",
+    "E-mail": "naruto@magicmail.com",
+    "Password": "BelieveIt!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@fictional.com",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Madara Uchiha",
+    "E-mail": "madara.uchiha@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Genos",
+    "E-mail": "genos@adventure.org",
+    "Password": "CyborgHero007!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Levi Ackerman",
+    "E-mail": "levi.ackerman@adventure.org",
+    "Password": "HumanityStrongest!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@animeworld.jp",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@animeworld.jp",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sakura Haruno",
+    "E-mail": "sakura.haruno@hero.net",
+    "Password": "MedicalNinja@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@magicmail.com",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@adventure.org",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Natsu Dragneel",
+    "E-mail": "natsu.dragneel@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Luffy",
+    "E-mail": "luffy@adventure.org",
+    "Password": "PirateKing2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Deku",
+    "E-mail": "deku@fictional.com",
+    "Password": "OneForAll!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Shinji Ikari",
+    "E-mail": "shinji.ikari@magicmail.com",
+    "Password": "GetInTheEva!@",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sakura Haruno",
+    "E-mail": "sakura.haruno@fictional.com",
+    "Password": "MedicalNinja@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kagome",
+    "E-mail": "kagome@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Light Yagami",
+    "E-mail": "light.yagami@hero.net",
+    "Password": "Justic3!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Levi Ackerman",
+    "E-mail": "levi.ackerman@animeworld.jp",
+    "Password": "HumanityStrongest!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kagome",
+    "E-mail": "kagome@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Rukia Kuchiki",
+    "E-mail": "rukia.kuchiki@animeworld.jp",
+    "Password": "ChappyL0ve!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Deku",
+    "E-mail": "deku@magicmail.com",
+    "Password": "OneForAll!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Deku",
+    "E-mail": "deku@adventure.org",
+    "Password": "OneForAll!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Light Yagami",
+    "E-mail": "light.yagami@magicmail.com",
+    "Password": "Justic3!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@hero.net",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sanji",
+    "E-mail": "sanji@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Zoro",
+    "E-mail": "zoro@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@animeworld.jp",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Levi Ackerman",
+    "E-mail": "levi.ackerman@hero.net",
+    "Password": "HumanityStrongest!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@fictional.com",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@magicmail.com",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Natsu Dragneel",
+    "E-mail": "natsu.dragneel@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Miroku",
+    "E-mail": "miroku@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Rukia Kuchiki",
+    "E-mail": "rukia.kuchiki@fictional.com",
+    "Password": "ChappyL0ve!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Miroku",
+    "E-mail": "miroku@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@adventure.org",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Light Yagami",
+    "E-mail": "light.yagami@animeworld.jp",
+    "Password": "Justic3!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sasuke",
+    "E-mail": "sasuke@magicmail.com",
+    "Password": "Sharingan123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Cell",
+    "E-mail": "cell@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Lucy Heartfilia",
+    "E-mail": "lucy.heartfilia@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sakura Haruno",
+    "E-mail": "sakura.haruno@magicmail.com",
+    "Password": "MedicalNinja@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@animeworld.jp",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sakura Haruno",
+    "E-mail": "sakura.haruno@fictional.com",
+    "Password": "MedicalNinja@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sango",
+    "E-mail": "sango@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gray Fullbuster",
+    "E-mail": "gray.fullbuster@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Vegeta",
+    "E-mail": "vegeta@fictional.com",
+    "Password": "PrinceOfSaiyans!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sango",
+    "E-mail": "sango@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Inuyasha",
+    "E-mail": "inuyasha@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sanji",
+    "E-mail": "sanji@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Rukia Kuchiki",
+    "E-mail": "rukia.kuchiki@fictional.com",
+    "Password": "ChappyL0ve!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@hero.net",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Nami",
+    "E-mail": "nami@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Naruto",
+    "E-mail": "naruto@adventure.org",
+    "Password": "BelieveIt!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sango",
+    "E-mail": "sango@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gaara",
+    "E-mail": "gaara@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@adventure.org",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Todoroki",
+    "E-mail": "todoroki@fictional.com",
+    "Password": "HalfColdHalfHot!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@adventure.org",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Piccolo",
+    "E-mail": "piccolo@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Zoro",
+    "E-mail": "zoro@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sasuke",
+    "E-mail": "sasuke@animeworld.jp",
+    "Password": "Sharingan123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Erza Scarlet",
+    "E-mail": "erza.scarlet@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kagome",
+    "E-mail": "kagome@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Goku",
+    "E-mail": "goku@animeworld.jp",
+    "Password": "Kamehameha!!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Naruto",
+    "E-mail": "naruto@adventure.org",
+    "Password": "BelieveIt!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Eren Jaeger",
+    "E-mail": "eren.jaeger@animeworld.jp",
+    "Password": "TitanShifter!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Naruto",
+    "E-mail": "naruto@fictional.com",
+    "Password": "BelieveIt!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Cell",
+    "E-mail": "cell@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@adventure.org",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@animeworld.jp",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Natsu Dragneel",
+    "E-mail": "natsu.dragneel@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@adventure.org",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@adventure.org",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Frieza",
+    "E-mail": "frieza@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Erza Scarlet",
+    "E-mail": "erza.scarlet@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@fictional.com",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@magicmail.com",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@fictional.com",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Piccolo",
+    "E-mail": "piccolo@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@magicmail.com",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Light Yagami",
+    "E-mail": "light.yagami@fictional.com",
+    "Password": "Justic3!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@magicmail.com",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Naruto",
+    "E-mail": "naruto@adventure.org",
+    "Password": "BelieveIt!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sakura Haruno",
+    "E-mail": "sakura.haruno@magicmail.com",
+    "Password": "MedicalNinja@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Madara Uchiha",
+    "E-mail": "madara.uchiha@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Cell",
+    "E-mail": "cell@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Natsu Dragneel",
+    "E-mail": "natsu.dragneel@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Eren Jaeger",
+    "E-mail": "eren.jaeger@hero.net",
+    "Password": "TitanShifter!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@hero.net",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Goku",
+    "E-mail": "goku@adventure.org",
+    "Password": "Kamehameha!!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Piccolo",
+    "E-mail": "piccolo@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Lucy Heartfilia",
+    "E-mail": "lucy.heartfilia@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Rukia Kuchiki",
+    "E-mail": "rukia.kuchiki@hero.net",
+    "Password": "ChappyL0ve!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@fictional.com",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Madara Uchiha",
+    "E-mail": "madara.uchiha@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Gray Fullbuster",
+    "E-mail": "gray.fullbuster@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Luffy",
+    "E-mail": "luffy@magicmail.com",
+    "Password": "PirateKing2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Vegeta",
+    "E-mail": "vegeta@hero.net",
+    "Password": "PrinceOfSaiyans!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sanji",
+    "E-mail": "sanji@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Lucy Heartfilia",
+    "E-mail": "lucy.heartfilia@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Deku",
+    "E-mail": "deku@magicmail.com",
+    "Password": "OneForAll!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Deku",
+    "E-mail": "deku@fictional.com",
+    "Password": "OneForAll!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kagome",
+    "E-mail": "kagome@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sasuke",
+    "E-mail": "sasuke@hero.net",
+    "Password": "Sharingan123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Frieza",
+    "E-mail": "frieza@hero.net",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Goku",
+    "E-mail": "goku@fictional.com",
+    "Password": "Kamehameha!!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@animeworld.jp",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@hero.net",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@adventure.org",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Todoroki",
+    "E-mail": "todoroki@animeworld.jp",
+    "Password": "HalfColdHalfHot!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Nami",
+    "E-mail": "nami@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@magicmail.com",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Goku",
+    "E-mail": "goku@adventure.org",
+    "Password": "Kamehameha!!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Edward Elric",
+    "E-mail": "edward.elric@adventure.org",
+    "Password": "Fullmetal123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Naruto",
+    "E-mail": "naruto@adventure.org",
+    "Password": "BelieveIt!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@hero.net",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Cell",
+    "E-mail": "cell@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Nami",
+    "E-mail": "nami@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Zoro",
+    "E-mail": "zoro@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@hero.net",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@adventure.org",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Inuyasha",
+    "E-mail": "inuyasha@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Rukia Kuchiki",
+    "E-mail": "rukia.kuchiki@adventure.org",
+    "Password": "ChappyL0ve!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sango",
+    "E-mail": "sango@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Nami",
+    "E-mail": "nami@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@magicmail.com",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sasuke",
+    "E-mail": "sasuke@fictional.com",
+    "Password": "Sharingan123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@adventure.org",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Madara Uchiha",
+    "E-mail": "madara.uchiha@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Eren Jaeger",
+    "E-mail": "eren.jaeger@animeworld.jp",
+    "Password": "TitanShifter!123",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@hero.net",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kagome",
+    "E-mail": "kagome@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@hero.net",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@adventure.org",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@magicmail.com",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kakashi",
+    "E-mail": "kakashi@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Madara Uchiha",
+    "E-mail": "madara.uchiha@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Edward Elric",
+    "E-mail": "edward.elric@adventure.org",
+    "Password": "Fullmetal123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Piccolo",
+    "E-mail": "piccolo@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Naruto",
+    "E-mail": "naruto@fictional.com",
+    "Password": "BelieveIt!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kenshin",
+    "E-mail": "kenshin@fictional.com",
+    "Password": "Battousai!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Cell",
+    "E-mail": "cell@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Ichigo",
+    "E-mail": "ichigo@adventure.org",
+    "Password": "Bankai!2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sasuke",
+    "E-mail": "sasuke@adventure.org",
+    "Password": "Sharingan123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Todoroki",
+    "E-mail": "todoroki@animeworld.jp",
+    "Password": "HalfColdHalfHot!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Mikasa Ackerman",
+    "E-mail": "mikasa.ackerman@animeworld.jp",
+    "Password": "ProtectEren123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Vegeta",
+    "E-mail": "vegeta@magicmail.com",
+    "Password": "PrinceOfSaiyans!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Vegeta",
+    "E-mail": "vegeta@magicmail.com",
+    "Password": "PrinceOfSaiyans!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Alphonse Elric",
+    "E-mail": "alphonse.elric@animeworld.jp",
+    "Password": "ArmoredSoul2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Sasuke",
+    "E-mail": "sasuke@hero.net",
+    "Password": "Sharingan123!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Todoroki",
+    "E-mail": "todoroki@hero.net",
+    "Password": "HalfColdHalfHot!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Asuka Langley",
+    "E-mail": "asuka.langley@animeworld.jp",
+    "Password": "EvaPilot#02!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Naruto",
+    "E-mail": "naruto@adventure.org",
+    "Password": "BelieveIt!@2024",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kakashi",
+    "E-mail": "kakashi@animeworld.jp",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Saitama",
+    "E-mail": "saitama@fictional.com",
+    "Password": "OnePunch2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Kagome",
+    "E-mail": "kagome@adventure.org",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Levi Ackerman",
+    "E-mail": "levi.ackerman@magicmail.com",
+    "Password": "HumanityStrongest!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Majin Buu",
+    "E-mail": "majin.buu@fictional.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Luffy",
+    "E-mail": "luffy@magicmail.com",
+    "Password": "PirateKing2024!",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Lucy Heartfilia",
+    "E-mail": "lucy.heartfilia@magicmail.com",
+    "Password": "",
+    "Category": "Anime"
+  },
+  {
+    "Name": "Hercules",
+    "E-mail": "hercules@adventure.org",
+    "Password": "ZeroToHero!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Ariel",
+    "E-mail": "ariel@adventure.org",
+    "Password": "UnderTheSea@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jack Sparrow",
+    "E-mail": "jack.sparrow@hero.net",
+    "Password": "PerlaNegra123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@hero.net",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Belle",
+    "E-mail": "belle@adventure.org",
+    "Password": "TaleAsOldAsTime!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jack Sparrow",
+    "E-mail": "jack.sparrow@fictional.com",
+    "Password": "PerlaNegra123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mickey Mouse",
+    "E-mail": "mickey.mouse@magicmail.com",
+    "Password": "OhBoy!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elsa",
+    "E-mail": "elsa@animeworld.jp",
+    "Password": "LetItGo!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Ariel",
+    "E-mail": "ariel@hero.net",
+    "Password": "UnderTheSea@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Goofy",
+    "E-mail": "goofy@magicmail.com",
+    "Password": "Gawrsh!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Rapunzel",
+    "E-mail": "rapunzel@magicmail.com",
+    "Password": "LetDownYourHair!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@adventure.org",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elsa",
+    "E-mail": "elsa@animeworld.jp",
+    "Password": "LetItGo!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Buzz Lightyear",
+    "E-mail": "buzz.lightyear@fictional.com",
+    "Password": "ToInfinity!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jasmine",
+    "E-mail": "jasmine@hero.net",
+    "Password": "MagicCarpetRide!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@animeworld.jp",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@animeworld.jp",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Woody",
+    "E-mail": "woody@fictional.com",
+    "Password": "TheresASnake2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Goofy",
+    "E-mail": "goofy@magicmail.com",
+    "Password": "Gawrsh!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@magicmail.com",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elsa",
+    "E-mail": "elsa@magicmail.com",
+    "Password": "LetItGo!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Hercules",
+    "E-mail": "hercules@magicmail.com",
+    "Password": "ZeroToHero!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Buzz Lightyear",
+    "E-mail": "buzz.lightyear@adventure.org",
+    "Password": "ToInfinity!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elsa",
+    "E-mail": "elsa@magicmail.com",
+    "Password": "LetItGo!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Belle",
+    "E-mail": "belle@animeworld.jp",
+    "Password": "TaleAsOldAsTime!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@animeworld.jp",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@magicmail.com",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Anna",
+    "E-mail": "anna@animeworld.jp",
+    "Password": "IceQueen#123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Hercules",
+    "E-mail": "hercules@adventure.org",
+    "Password": "ZeroToHero!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Aladdin",
+    "E-mail": "aladdin@fictional.com",
+    "Password": "DiamondInTheRough!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Buzz Lightyear",
+    "E-mail": "buzz.lightyear@fictional.com",
+    "Password": "ToInfinity!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@fictional.com",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mufasa",
+    "E-mail": "mufasa@magicmail.com",
+    "Password": "KingOfPrideRock!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Ariel",
+    "E-mail": "ariel@magicmail.com",
+    "Password": "UnderTheSea@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@animeworld.jp",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@fictional.com",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Hercules",
+    "E-mail": "hercules@animeworld.jp",
+    "Password": "ZeroToHero!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@adventure.org",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jack Sparrow",
+    "E-mail": "jack.sparrow@hero.net",
+    "Password": "PerlaNegra123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elsa",
+    "E-mail": "elsa@magicmail.com",
+    "Password": "LetItGo!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mickey Mouse",
+    "E-mail": "mickey.mouse@hero.net",
+    "Password": "OhBoy!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elsa",
+    "E-mail": "elsa@fictional.com",
+    "Password": "LetItGo!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Tiana",
+    "E-mail": "tiana@animeworld.jp",
+    "Password": "NewOrleansDream!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@adventure.org",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jack Sparrow",
+    "E-mail": "jack.sparrow@magicmail.com",
+    "Password": "PerlaNegra123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Anna",
+    "E-mail": "anna@animeworld.jp",
+    "Password": "IceQueen#123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jasmine",
+    "E-mail": "jasmine@magicmail.com",
+    "Password": "MagicCarpetRide!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@hero.net",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jack Sparrow",
+    "E-mail": "jack.sparrow@magicmail.com",
+    "Password": "PerlaNegra123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elsa",
+    "E-mail": "elsa@adventure.org",
+    "Password": "LetItGo!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Tiana",
+    "E-mail": "tiana@fictional.com",
+    "Password": "NewOrleansDream!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@adventure.org",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Will Turner",
+    "E-mail": "will.turner@adventure.org",
+    "Password": "DavyJonesHeart!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Tiana",
+    "E-mail": "tiana@adventure.org",
+    "Password": "NewOrleansDream!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@magicmail.com",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@fictional.com",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mickey Mouse",
+    "E-mail": "mickey.mouse@magicmail.com",
+    "Password": "OhBoy!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jasmine",
+    "E-mail": "jasmine@animeworld.jp",
+    "Password": "MagicCarpetRide!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@hero.net",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elsa",
+    "E-mail": "elsa@adventure.org",
+    "Password": "LetItGo!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Hercules",
+    "E-mail": "hercules@animeworld.jp",
+    "Password": "ZeroToHero!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Belle",
+    "E-mail": "belle@hero.net",
+    "Password": "TaleAsOldAsTime!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mickey Mouse",
+    "E-mail": "mickey.mouse@magicmail.com",
+    "Password": "OhBoy!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@fictional.com",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Ariel",
+    "E-mail": "ariel@fictional.com",
+    "Password": "UnderTheSea@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Tiana",
+    "E-mail": "tiana@adventure.org",
+    "Password": "NewOrleansDream!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@adventure.org",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mickey Mouse",
+    "E-mail": "mickey.mouse@fictional.com",
+    "Password": "OhBoy!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Hercules",
+    "E-mail": "hercules@magicmail.com",
+    "Password": "ZeroToHero!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Anna",
+    "E-mail": "anna@fictional.com",
+    "Password": "IceQueen#123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Aladdin",
+    "E-mail": "aladdin@magicmail.com",
+    "Password": "DiamondInTheRough!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@animeworld.jp",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Hercules",
+    "E-mail": "hercules@magicmail.com",
+    "Password": "ZeroToHero!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@hero.net",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@magicmail.com",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Anna",
+    "E-mail": "anna@adventure.org",
+    "Password": "IceQueen#123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Ariel",
+    "E-mail": "ariel@hero.net",
+    "Password": "UnderTheSea@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@animeworld.jp",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Will Turner",
+    "E-mail": "will.turner@fictional.com",
+    "Password": "DavyJonesHeart!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Woody",
+    "E-mail": "woody@hero.net",
+    "Password": "TheresASnake2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Ariel",
+    "E-mail": "ariel@fictional.com",
+    "Password": "UnderTheSea@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Tiana",
+    "E-mail": "tiana@animeworld.jp",
+    "Password": "NewOrleansDream!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Ariel",
+    "E-mail": "ariel@animeworld.jp",
+    "Password": "UnderTheSea@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Aladdin",
+    "E-mail": "aladdin@adventure.org",
+    "Password": "DiamondInTheRough!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Tiana",
+    "E-mail": "tiana@adventure.org",
+    "Password": "NewOrleansDream!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Rapunzel",
+    "E-mail": "rapunzel@adventure.org",
+    "Password": "LetDownYourHair!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elsa",
+    "E-mail": "elsa@animeworld.jp",
+    "Password": "LetItGo!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@fictional.com",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mufasa",
+    "E-mail": "mufasa@hero.net",
+    "Password": "KingOfPrideRock!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Aladdin",
+    "E-mail": "aladdin@hero.net",
+    "Password": "DiamondInTheRough!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Goofy",
+    "E-mail": "goofy@hero.net",
+    "Password": "Gawrsh!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Hercules",
+    "E-mail": "hercules@adventure.org",
+    "Password": "ZeroToHero!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Belle",
+    "E-mail": "belle@hero.net",
+    "Password": "TaleAsOldAsTime!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@hero.net",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Tiana",
+    "E-mail": "tiana@magicmail.com",
+    "Password": "NewOrleansDream!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mufasa",
+    "E-mail": "mufasa@adventure.org",
+    "Password": "KingOfPrideRock!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Hercules",
+    "E-mail": "hercules@fictional.com",
+    "Password": "ZeroToHero!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Rapunzel",
+    "E-mail": "rapunzel@adventure.org",
+    "Password": "LetDownYourHair!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@adventure.org",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Goofy",
+    "E-mail": "goofy@fictional.com",
+    "Password": "Gawrsh!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@fictional.com",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jack Sparrow",
+    "E-mail": "jack.sparrow@adventure.org",
+    "Password": "PerlaNegra123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mickey Mouse",
+    "E-mail": "mickey.mouse@animeworld.jp",
+    "Password": "OhBoy!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elsa",
+    "E-mail": "elsa@animeworld.jp",
+    "Password": "LetItGo!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Tiana",
+    "E-mail": "tiana@animeworld.jp",
+    "Password": "NewOrleansDream!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Aladdin",
+    "E-mail": "aladdin@magicmail.com",
+    "Password": "DiamondInTheRough!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@animeworld.jp",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Goofy",
+    "E-mail": "goofy@adventure.org",
+    "Password": "Gawrsh!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@animeworld.jp",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@fictional.com",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Tiana",
+    "E-mail": "tiana@fictional.com",
+    "Password": "NewOrleansDream!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@magicmail.com",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Will Turner",
+    "E-mail": "will.turner@magicmail.com",
+    "Password": "DavyJonesHeart!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Belle",
+    "E-mail": "belle@fictional.com",
+    "Password": "TaleAsOldAsTime!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@hero.net",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Rapunzel",
+    "E-mail": "rapunzel@fictional.com",
+    "Password": "LetDownYourHair!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Rapunzel",
+    "E-mail": "rapunzel@adventure.org",
+    "Password": "LetDownYourHair!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Rapunzel",
+    "E-mail": "rapunzel@hero.net",
+    "Password": "LetDownYourHair!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@hero.net",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Goofy",
+    "E-mail": "goofy@adventure.org",
+    "Password": "Gawrsh!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elsa",
+    "E-mail": "elsa@adventure.org",
+    "Password": "LetItGo!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@fictional.com",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Rapunzel",
+    "E-mail": "rapunzel@adventure.org",
+    "Password": "LetDownYourHair!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jasmine",
+    "E-mail": "jasmine@hero.net",
+    "Password": "MagicCarpetRide!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Anna",
+    "E-mail": "anna@adventure.org",
+    "Password": "IceQueen#123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@hero.net",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Hercules",
+    "E-mail": "hercules@magicmail.com",
+    "Password": "ZeroToHero!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@magicmail.com",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Goofy",
+    "E-mail": "goofy@fictional.com",
+    "Password": "Gawrsh!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@adventure.org",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Hercules",
+    "E-mail": "hercules@fictional.com",
+    "Password": "ZeroToHero!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Anna",
+    "E-mail": "anna@fictional.com",
+    "Password": "IceQueen#123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jasmine",
+    "E-mail": "jasmine@magicmail.com",
+    "Password": "MagicCarpetRide!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jasmine",
+    "E-mail": "jasmine@adventure.org",
+    "Password": "MagicCarpetRide!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mickey Mouse",
+    "E-mail": "mickey.mouse@magicmail.com",
+    "Password": "OhBoy!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Will Turner",
+    "E-mail": "will.turner@adventure.org",
+    "Password": "DavyJonesHeart!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jack Sparrow",
+    "E-mail": "jack.sparrow@animeworld.jp",
+    "Password": "PerlaNegra123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@magicmail.com",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Ariel",
+    "E-mail": "ariel@adventure.org",
+    "Password": "UnderTheSea@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Ariel",
+    "E-mail": "ariel@adventure.org",
+    "Password": "UnderTheSea@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Tiana",
+    "E-mail": "tiana@adventure.org",
+    "Password": "NewOrleansDream!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@magicmail.com",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Buzz Lightyear",
+    "E-mail": "buzz.lightyear@adventure.org",
+    "Password": "ToInfinity!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Will Turner",
+    "E-mail": "will.turner@animeworld.jp",
+    "Password": "DavyJonesHeart!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jack Sparrow",
+    "E-mail": "jack.sparrow@hero.net",
+    "Password": "PerlaNegra123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@fictional.com",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Hercules",
+    "E-mail": "hercules@magicmail.com",
+    "Password": "ZeroToHero!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@adventure.org",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Belle",
+    "E-mail": "belle@animeworld.jp",
+    "Password": "TaleAsOldAsTime!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@animeworld.jp",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@hero.net",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mickey Mouse",
+    "E-mail": "mickey.mouse@magicmail.com",
+    "Password": "OhBoy!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Goofy",
+    "E-mail": "goofy@magicmail.com",
+    "Password": "Gawrsh!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@animeworld.jp",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Tiana",
+    "E-mail": "tiana@animeworld.jp",
+    "Password": "NewOrleansDream!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Belle",
+    "E-mail": "belle@fictional.com",
+    "Password": "TaleAsOldAsTime!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Goofy",
+    "E-mail": "goofy@hero.net",
+    "Password": "Gawrsh!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Anna",
+    "E-mail": "anna@magicmail.com",
+    "Password": "IceQueen#123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Anna",
+    "E-mail": "anna@adventure.org",
+    "Password": "IceQueen#123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@hero.net",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elsa",
+    "E-mail": "elsa@fictional.com",
+    "Password": "LetItGo!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@fictional.com",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Rapunzel",
+    "E-mail": "rapunzel@animeworld.jp",
+    "Password": "LetDownYourHair!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Belle",
+    "E-mail": "belle@fictional.com",
+    "Password": "TaleAsOldAsTime!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mickey Mouse",
+    "E-mail": "mickey.mouse@magicmail.com",
+    "Password": "OhBoy!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@adventure.org",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@fictional.com",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Buzz Lightyear",
+    "E-mail": "buzz.lightyear@fictional.com",
+    "Password": "ToInfinity!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Belle",
+    "E-mail": "belle@animeworld.jp",
+    "Password": "TaleAsOldAsTime!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jasmine",
+    "E-mail": "jasmine@adventure.org",
+    "Password": "MagicCarpetRide!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@adventure.org",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jasmine",
+    "E-mail": "jasmine@hero.net",
+    "Password": "MagicCarpetRide!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Will Turner",
+    "E-mail": "will.turner@adventure.org",
+    "Password": "DavyJonesHeart!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Tiana",
+    "E-mail": "tiana@magicmail.com",
+    "Password": "NewOrleansDream!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Will Turner",
+    "E-mail": "will.turner@magicmail.com",
+    "Password": "DavyJonesHeart!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Goofy",
+    "E-mail": "goofy@fictional.com",
+    "Password": "Gawrsh!2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Ariel",
+    "E-mail": "ariel@adventure.org",
+    "Password": "UnderTheSea@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@animeworld.jp",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Buzz Lightyear",
+    "E-mail": "buzz.lightyear@adventure.org",
+    "Password": "ToInfinity!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jack Sparrow",
+    "E-mail": "jack.sparrow@hero.net",
+    "Password": "PerlaNegra123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@animeworld.jp",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Elizabeth Swann",
+    "E-mail": "elizabeth.swann@animeworld.jp",
+    "Password": "PirateQueen2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@fictional.com",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@fictional.com",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Will Turner",
+    "E-mail": "will.turner@animeworld.jp",
+    "Password": "DavyJonesHeart!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mickey Mouse",
+    "E-mail": "mickey.mouse@hero.net",
+    "Password": "OhBoy!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@hero.net",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Ariel",
+    "E-mail": "ariel@magicmail.com",
+    "Password": "UnderTheSea@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Jack Sparrow",
+    "E-mail": "jack.sparrow@magicmail.com",
+    "Password": "PerlaNegra123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Aladdin",
+    "E-mail": "aladdin@magicmail.com",
+    "Password": "DiamondInTheRough!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Mickey Mouse",
+    "E-mail": "mickey.mouse@animeworld.jp",
+    "Password": "OhBoy!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Aladdin",
+    "E-mail": "aladdin@adventure.org",
+    "Password": "DiamondInTheRough!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Ariel",
+    "E-mail": "ariel@adventure.org",
+    "Password": "UnderTheSea@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Will Turner",
+    "E-mail": "will.turner@hero.net",
+    "Password": "DavyJonesHeart!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Buzz Lightyear",
+    "E-mail": "buzz.lightyear@fictional.com",
+    "Password": "ToInfinity!123",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Donald Duck",
+    "E-mail": "donald.duck@animeworld.jp",
+    "Password": "QuackQuack007",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Aladdin",
+    "E-mail": "aladdin@adventure.org",
+    "Password": "DiamondInTheRough!",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Moana",
+    "E-mail": "moana@animeworld.jp",
+    "Password": "WayFinder@2024",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@hero.net",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  },
+  {
+    "Name": "Simba",
+    "E-mail": "simba@fictional.com",
+    "Password": "CircleOfLife!@",
+    "Category": "Disney"
+  }
+]

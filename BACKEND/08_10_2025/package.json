@@ -1,0 +1,13 @@
+{
+  "name": "08_10_2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Antonio Rosales <antoniorosalesmartinez90@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs"
+}
