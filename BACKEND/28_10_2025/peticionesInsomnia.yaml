@@ -1,0 +1,186 @@
+type: collection.insomnia.rest/5.0
+name: moviesDB
+meta:
+  id: wrk_83916b1d098c4953974e822cda77de87
+  created: 1761072840014
+  modified: 1761072840014
+  description: ""
+collection:
+  - url: http://localhost:8080/rutaquenoexiste
+    name: Route not found ✅
+    meta:
+      id: req_5561908f0c254e51bcffb9cd59af3c37
+      created: 1761072844969
+      modified: 1761678898860
+      isPrivate: false
+      description: ""
+      sortKey: -1761072844969
+    method: GET
+    headers:
+      - name: User-Agent
+        value: insomnia/11.6.1
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: http://localhost:8080/movies/
+    name: Get All Movies ✅
+    meta:
+      id: req_672fe7e95b94407d8d50eaaccc50cea7
+      created: 1761072906815
+      modified: 1761679050075
+      isPrivate: false
+      description: ""
+      sortKey: -1761072844869
+    method: GET
+    headers:
+      - name: User-Agent
+        value: insomnia/11.6.1
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: http://localhost:8080/movies
+    name: Post Movie ✅
+    meta:
+      id: req_aeb2a12ec91641d9a42e14c46535656d
+      created: 1761073038604
+      modified: 1761679924727
+      isPrivate: false
+      description: ""
+      sortKey: -1761072844769
+    method: POST
+    body:
+      mimeType: application/json
+      text: |-
+        {
+        	"title": "        Jurassic Park",
+        	"director": "Steven Spielberg",
+        	"year": 1991
+        }
+    headers:
+      - name: Content-Type
+        value: application/json
+      - name: User-Agent
+        value: insomnia/11.6.1
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: http://localhost:8080/movies/68fa794382bb5096154a1404
+    name: Get Movie By Id ✅
+    meta:
+      id: req_afce2108bf1045ff998c6779e678d655
+      created: 1761244849550
+      modified: 1761679286652
+      isPrivate: false
+      description: ""
+      sortKey: -1761072844819
+    method: GET
+    headers:
+      - name: User-Agent
+        value: insomnia/11.6.2
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: http://localhost:8080/movies/690119f8dc2c5b6a189f4d10
+    name: Delete Movie By Id ✅
+    meta:
+      id: req_42ade37c579941f99d6591f1464d655d
+      created: 1761245275552
+      modified: 1761680216872
+      isPrivate: false
+      description: ""
+      sortKey: -1761072844669
+    method: DELETE
+    headers:
+      - name: User-Agent
+        value: insomnia/11.6.2
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: http://localhost:8080/movies/director/Sam Raimi
+    name: Get Movies By Director ✅
+    meta:
+      id: req_35c2a6930c92459ca96c933fe97ebc1b
+      created: 1761245795684
+      modified: 1761679477541
+      isPrivate: false
+      description: ""
+      sortKey: -1761072844794
+    method: GET
+    headers:
+      - name: User-Agent
+        value: insomnia/11.6.2
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: http://localhost:8080/movies/68fa794382bb5096154a1404
+    name: Update Movie By Id ✅
+    meta:
+      id: req_07817d1301ee4b3bb6d7818cdd05ce64
+      created: 1761680893562
+      modified: 1761681033837
+      isPrivate: false
+      description: ""
+      sortKey: -1761680893562
+    method: PUT
+    body:
+      mimeType: application/json
+      text: |-
+        {
+        	"year": 1992
+        }
+    headers:
+      - name: Content-Type
+        value: application/json
+      - name: User-Agent
+        value: insomnia/11.6.2
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_e30279140d3da52ffa1ead48335ae6197bba9452
+    created: 1761072840024
+    modified: 1761072840024
+environments:
+  name: Base Environment
+  meta:
+    id: env_e30279140d3da52ffa1ead48335ae6197bba9452
+    created: 1761072840019
+    modified: 1761072840019
+    isPrivate: false
