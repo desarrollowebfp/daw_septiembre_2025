@@ -3,6 +3,7 @@ const express = require("express");
 const connectDB = require("./src/config/db");
 
 const videogamesRouter = require("./src/routes/videogames.routes");
+const platformsRouter = require("./src/routes/platforms.routes");
 
 const app = express();
 app.use(express.json());
@@ -11,6 +12,7 @@ connectDB();
 
 // Rutas
 app.use("/videogames", videogamesRouter);
+app.use("/platforms", platformsRouter);
 
 app.use((req, res) => {
   return res.status(404).json({ error: "Route not found" });
