@@ -1,0 +1,14 @@
+.subtitulo {
+  color: orange;
+}
+
+.subtitulo.sm {
+  font-size: 12px;
+}
+.subtitulo.md {
+  font-size: 18px;
+}
+
+.subtitulo.lg {
+  font-size: 24px;
+}
