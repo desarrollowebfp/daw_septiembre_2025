@@ -1,0 +1,20 @@
+.info-box {
+  border-radius: 12px;
+  padding: 20px;
+  background-color: rgba(128, 128, 128, 0.311);
+  margin: 10px;
+  border: 2px dashed black;
+  width: fit-content;
+}
+
+.info-box.success {
+  border-color: greenyellow;
+}
+
+.info-box.info {
+  border-color: lightblue;
+}
+
+.info-box.warning {
+  border-color: orange;
+}
