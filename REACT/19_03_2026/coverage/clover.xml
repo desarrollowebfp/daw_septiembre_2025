@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1773950747335" clover="3.2.0">
+  <project timestamp="1773950747335" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9" elements="28" coveredelements="28" complexity="0" loc="19" ncloc="19" packages="1" files="4" classes="4"/>
+    <file name="CampoNombre.jsx" path="/Users/antoniorosalesmartinez/Dev/Repositorios/daw_septiembre_2025/REACT/19_03_2026/src/components/CampoNombre.jsx">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="6" count="7" type="stmt"/>
+      <line num="12" count="6" type="stmt"/>
+    </file>
+    <file name="Contador.jsx" path="/Users/antoniorosalesmartinez/Dev/Repositorios/daw_septiembre_2025/REACT/19_03_2026/src/components/Contador.jsx">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="MensajeCarga.jsx" path="/Users/antoniorosalesmartinez/Dev/Repositorios/daw_septiembre_2025/REACT/19_03_2026/src/components/MensajeCarga.jsx">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+    </file>
+    <file name="Saludo.jsx" path="/Users/antoniorosalesmartinez/Dev/Repositorios/daw_septiembre_2025/REACT/19_03_2026/src/components/Saludo.jsx">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
