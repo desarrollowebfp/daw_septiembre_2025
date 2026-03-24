@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1774382440928" clover="3.2.0">
+  <project timestamp="1774382440929" name="All files">
+    <metrics statements="25" coveredstatements="25" conditionals="6" coveredconditionals="6" methods="12" coveredmethods="12" elements="43" coveredelements="43" complexity="0" loc="25" ncloc="25" packages="1" files="6" classes="6"/>
+    <file name="CampoNombre.jsx" path="/Users/antoniorosalesmartinez/Dev/Repositorios/daw_septiembre_2025/REACT/24_03_2026/src/components/CampoNombre.jsx">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="6" count="7" type="stmt"/>
+      <line num="12" count="6" type="stmt"/>
+    </file>
+    <file name="Contador.jsx" path="/Users/antoniorosalesmartinez/Dev/Repositorios/daw_septiembre_2025/REACT/24_03_2026/src/components/Contador.jsx">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="EstadoPanel.jsx" path="/Users/antoniorosalesmartinez/Dev/Repositorios/daw_septiembre_2025/REACT/24_03_2026/src/components/EstadoPanel.jsx">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+    </file>
+    <file name="MensajeCarga.jsx" path="/Users/antoniorosalesmartinez/Dev/Repositorios/daw_septiembre_2025/REACT/24_03_2026/src/components/MensajeCarga.jsx">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+    </file>
+    <file name="MostrarAyuda.jsx" path="/Users/antoniorosalesmartinez/Dev/Repositorios/daw_septiembre_2025/REACT/24_03_2026/src/components/MostrarAyuda.jsx">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="6" count="6" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+    </file>
+    <file name="Saludo.jsx" path="/Users/antoniorosalesmartinez/Dev/Repositorios/daw_septiembre_2025/REACT/24_03_2026/src/components/Saludo.jsx">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
