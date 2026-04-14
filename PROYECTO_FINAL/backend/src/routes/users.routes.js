@@ -11,13 +11,13 @@ const {
   updateAvatar,
 } = require("../controllers/users.controllers");
 
-const userRoutes = express.Router();
+const usersRoutes = express.Router();
 
-userRoutes.post("/register", upload.single("avatar"), register);
-userRoutes.post("/login", login);
-userRoutes.get("/me", isAuth, getMe);
-userRoutes.put("/username", isAuth, updateUsername);
-userRoutes.put("/password", isAuth, updatePassword);
-userRoutes.put("/avatar", isAuth, updateAvatar);
+usersRoutes.post("/register", upload.single("avatar"), register);
+usersRoutes.post("/login", login);
+usersRoutes.get("/me", isAuth, getMe);
+usersRoutes.put("/username", isAuth, updateUsername);
+usersRoutes.put("/password", isAuth, updatePassword);
+usersRoutes.put("/avatar", isAuth, updateAvatar);
 
-module.exports = userRoutes;
+module.exports = usersRoutes;
