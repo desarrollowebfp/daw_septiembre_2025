@@ -13,7 +13,7 @@ const isAuth = async (req, res, next) => {
     //Verificamos el token y recuperamos la información decodificada del usuario
     const decoded = jwt.verify(token, process.env.JWT_SECRET);
     //Buscamos el usuario en la base de datos
-    const user = await User.findById(decoded._id);
+    const user = await User.findById(decoded.id);
     if (!user) {
       return res.status(401).json({ message: "Token no valido" });
     }
