@@ -18,6 +18,6 @@ usersRoutes.post("/login", login);
 usersRoutes.get("/me", isAuth, getMe);
 usersRoutes.put("/username", isAuth, updateUsername);
 usersRoutes.put("/password", isAuth, updatePassword);
-usersRoutes.put("/avatar", isAuth, updateAvatar);
+usersRoutes.put("/avatar", isAuth, upload.single("avatar"), updateAvatar);
 
 module.exports = usersRoutes;
