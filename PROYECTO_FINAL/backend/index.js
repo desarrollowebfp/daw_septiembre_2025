@@ -11,8 +11,9 @@ const PORT = process.env.PORT || 3000;
 
 connectDB();
 
-//Queda pendiente conocer las direcciones del frontal
-server.use(cors());
+server.use(cors({
+  origin: "http://localhost:5173"
+}));
 
 server.use(express.json());
 
