@@ -9,8 +9,8 @@ const UsernameForm = ({ onMessage }) => {
   const handleSubmit = async (ev) => {
     ev.preventDefault();
     const res = await updateUsername(token, username);
-    if (res.message) {
-      onMessage(res.message);
+    if (res.error) {
+      onMessage(res.error);
       return;
     }
 

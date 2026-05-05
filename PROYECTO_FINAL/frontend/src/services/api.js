@@ -9,7 +9,7 @@ const registerUser = async (formData) => {
   return res.json();
 };
 
-const loginUser = async (userData) => {
+const loginUser = async (formData) => {
   const res = await fetch(`${API_URL}/users/login`, {
     method: "POST",
     headers: {

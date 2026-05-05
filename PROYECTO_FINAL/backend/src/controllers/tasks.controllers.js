@@ -31,7 +31,7 @@ const getTasks = async (req, res) => {
     const tasks = await query;
     return res.status(200).json(tasks);
   } catch (error) {
-    return res.status(500).json({ message: "Error obteniendo las tareas" });
+    return res.status(500).json({ error: "Error obteniendo las tareas" });
   }
 };
 
@@ -55,7 +55,7 @@ const createTask = async (req, res) => {
     const taskSaved = await newTask.save();
     return res.status(200).json(taskSaved);
   } catch (error) {
-    return res.status(500).json({ message: "Error creando la tarea" });
+    return res.status(500).json({ error: "Error creando la tarea" });
   }
 };
 
@@ -69,7 +69,7 @@ const updateTask = async (req, res) => {
     });
 
     if (!task) {
-      return res.status(404).json({ message: "No se encuentra la tarea" });
+      return res.status(404).json({ error: "No se encuentra la tarea" });
     }
 
     if (title !== undefined) task.title = title;
@@ -79,7 +79,7 @@ const updateTask = async (req, res) => {
     const taskUpdated = await task.save();
     return res.status(200).json(taskUpdated);
   } catch (error) {
-    return res.status(500).json({ message: "Error creando la tarea" });
+    return res.status(500).json({ error: "Error creando la tarea" });
   }
 };
 
@@ -91,12 +91,12 @@ const deleteTask = async (req, res) => {
     });
 
     if (!task) {
-      return res.status(404).json({ message: "No se encuentra la tarea" });
+      return res.status(404).json({ error: "No se encuentra la tarea" });
     }
 
     return res.status(200).json({ message: "Tarea borrada correctamente" });
   } catch (error) {
-    return res.status(500).json({ message: "Error borrando la tarea" });
+    return res.status(500).json({ error: "Error borrando la tarea" });
   }
 };
 

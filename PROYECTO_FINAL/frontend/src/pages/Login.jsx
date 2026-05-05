@@ -20,8 +20,8 @@ const Login = () => {
     ev.preventDefault();
     const res = await loginUser(formData);
 
-    if (res.message) {
-      setMessage(res.message);
+    if (res.error) {
+      setMessage(res.error);
       return;
     }
 

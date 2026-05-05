@@ -17,7 +17,7 @@ export const AuthProvider = ({ children }) => {
 
       const res = await getMe(token);
 
-      if (res.message) {
+      if (res.error) {
         localStorage.removeItem("token");
         setToken("");
         setUser(null);

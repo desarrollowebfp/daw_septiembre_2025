@@ -48,7 +48,7 @@ const Dashboard = () => {
         taskToEdit={taskToEdit}
         clearTaskToEdit={() => setTaskToEdit(null)}
       />
-      <TaskFilters filters={filter} setFilters={setFilters} />
+      <TaskFilters filters={filters} setFilters={setFilters} />
       <TaskList
         tasks={tasks}
         onEdit={setTaskToEdit}

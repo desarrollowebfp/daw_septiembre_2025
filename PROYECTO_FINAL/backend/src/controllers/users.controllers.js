@@ -7,7 +7,7 @@ const register = async (req, res) => {
     const { username, email, password } = req.body;
 
     if (!username || !email || !password) {
-      return res.status(400).json({ message: "Faltan campos obligatorios" });
+      return res.status(400).json({ error: "Faltan campos obligatorios" });
     }
 
     const newUser = new User({
@@ -29,19 +29,19 @@ const login = async (req, res) => {
     const { email, password } = req.body;
 
     if (!email || !password) {
-      return res.status(400).json({ message: "Faltan campos obligatorios" });
+      return res.status(400).json({ error: "Faltan campos obligatorios" });
     }
 
     const user = await User.findOne({ email });
 
     if (!user) {
-      return res.status(400).json({ message: "Credenciales incorrectas" });
+      return res.status(400).json({ error: "Credenciales incorrectas" });
     }
 
     const passwordMatch = bcrypt.compareSync(password, user.password);
 
     if (!passwordMatch) {
-      return res.status(400).json({ message: "Credenciales incorrectas" });
+      return res.status(400).json({ error: "Credenciales incorrectas" });
     }
 
     const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
@@ -72,7 +72,7 @@ const updateUsername = async (req, res) => {
   try {
     const { username } = req.body;
     if (!username) {
-      return res.status(400).json({ message: "Campo requerido" });
+      return res.status(400).json({ error: "Campo requerido" });
     }
     req.user.username = username;
     await req.user.save();
@@ -88,7 +88,7 @@ const updatePassword = async (req, res) => {
   try {
     const { currentPassword, newPassword } = req.body;
     if (!currentPassword || !newPassword) {
-      return res.status(400).json({ message: "Campos requeridos" });
+      return res.status(400).json({ error: "Campos requeridos" });
     }
     const passwordMatch = bcrypt.compareSync(
       currentPassword,
@@ -112,7 +112,7 @@ const updatePassword = async (req, res) => {
 const updateAvatar = async (req, res) => {
   try {
     if (!req.file) {
-      return res.status(400).json({ message: "Fichero requerido" });
+      return res.status(400).json({ error: "Fichero requerido" });
     }
     req.user.avatar = req.file.path;
     await req.user.save();

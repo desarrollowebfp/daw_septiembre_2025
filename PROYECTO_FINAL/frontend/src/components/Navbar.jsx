@@ -1,3 +1,4 @@
+import "./Navbar.css"
 import { NavLink } from "react-router-dom";
 
 const Navbar = ({ token, onLogout }) => {

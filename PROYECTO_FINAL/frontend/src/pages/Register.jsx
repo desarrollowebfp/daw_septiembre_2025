@@ -29,8 +29,8 @@ const Register = () => {
 
     const res = await registerUser(data);
 
-    if (res.message) {
-      setMessage(res.message);
+    if (res.error) {
+      setMessage(res.error);
       return;
     }
 
