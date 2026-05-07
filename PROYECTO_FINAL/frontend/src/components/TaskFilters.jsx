@@ -1,6 +1,6 @@
 const TaskFilters = ({ filters, setFilters }) => {
   return (
-    <section class="form">
+    <section className="form">
       <select
         value={filters.status}
         onChange={(ev) => setFilters({ ...filters, status: ev.target.value })}

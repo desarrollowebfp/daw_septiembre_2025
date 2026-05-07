@@ -3,7 +3,7 @@ import { updateAvatar } from "../services/api";
 import { useAuth } from "../context/AuthContext";
 
 const AvatarForm = ({ onMessage }) => {
-  const { token, setUser } = useAuth();
+  const { token, setUser, loadUser } = useAuth();
   const [avatar, setAvatar] = useState(null);
 
   const handleSubmit = async (ev) => {
@@ -21,7 +21,7 @@ const AvatarForm = ({ onMessage }) => {
       return;
     }
 
-    //setUser(res);
+    loadUser()
     onMessage("Avatar actualizado correctamente");
   };
 

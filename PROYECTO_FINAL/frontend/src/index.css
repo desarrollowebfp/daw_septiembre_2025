@@ -24,7 +24,8 @@ ul {
   list-style-type: none;
 }
 
-button {
+button,
+.home_link {
   background-color: transparent;
   border: 1px dashed white;
   padding: 6px 9px;
@@ -33,9 +34,11 @@ button {
   letter-spacing: 1.2px;
   transition: 0.3s;
   border-radius: 8px;
+  margin: 10px 0;
 }
 
-button:hover {
+button:hover,
+.home_link:hover {
   background-color: white;
   color: black;
 }
@@ -45,6 +48,8 @@ h2 {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 1.2px;
+  padding: 10px;
+  color: orange;
 }
 
 section {
@@ -67,13 +72,26 @@ input,
 select,
 option {
   width: 230px;
+  border-radius: 8px;
+  padding: 6px 9px;
 }
 
 article {
   padding: 20px;
   border: 1px dashed white;
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   align-items: center;
   gap: 10px;
+  min-width: 300px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
 }

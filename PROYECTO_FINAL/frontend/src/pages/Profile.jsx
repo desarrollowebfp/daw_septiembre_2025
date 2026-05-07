@@ -11,7 +11,7 @@ const Profile = () => {
   return (
     <section>
       <h1>Profile</h1>
-      {user?.avatar && <img src={user.avatar} alt={user.username} />}
+      {user?.avatar && <img src={user.avatar} alt={user.username} className="avatar" />}
       <UsernameForm onMessage={setMessage} />
       <PasswordForm onMessage={setMessage} />
       <AvatarForm onMessage={setMessage} />

@@ -1,9 +1,9 @@
 import { useState } from "react";
-import { getMe, updateUsername } from "../services/api";
+import { updateUsername } from "../services/api";
 import { useAuth } from "../context/AuthContext";
 
 const UsernameForm = ({ onMessage }) => {
-  const { token, user, setUser } = useAuth();
+  const { token, user, setUser, loadUser } = useAuth();
   const [username, setUsername] = useState(user?.username || "");
 
   const handleSubmit = async (ev) => {
@@ -13,11 +13,7 @@ const UsernameForm = ({ onMessage }) => {
       onMessage(res.error);
       return;
     }
-
-    //const res = await getMe(token);
-    // Revisar con el backend
-  /*   onMessage(res.message);
-    setUser(res); */
+    loadUser();
   };
 
   return (

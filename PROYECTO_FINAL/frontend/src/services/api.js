@@ -57,7 +57,6 @@ const updateAvatar = async (token, formData) => {
   const res = await fetch(`${API_URL}/users/avatar`, {
     method: "PUT",
     headers: {
-      "Content-Type": "application/json",
       Authorization: `Bearer ${token}`,
     },
     body: formData,

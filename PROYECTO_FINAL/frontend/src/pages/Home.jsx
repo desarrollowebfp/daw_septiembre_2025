@@ -5,8 +5,8 @@ const Home = () => {
     <section>
       <h1>DoIt App</h1>
       <p>Aplicación de gestión de tareas</p>
-      <Link to="/login">Acceder</Link>
-      <Link to="/register">Crear cuenta</Link>
+      <Link to="/login" className="home_link">Acceder</Link>
+      <Link to="/register" className="home_link">Crear cuenta</Link>
     </section>
   );
 };
